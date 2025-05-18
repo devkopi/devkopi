@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Santiago Gualdrón
+# 👋 ¡Hola! Soy Kopi
 
 Soy un **Desarrollador Fullstack Junior** en constante aprendizaje. Me gusta construir proyectos útiles con tecnologías modernas, resolver problemas con código y experimentar con herramientas que me permitan mejorar como desarrollador.
 
