@@ -1,66 +1,60 @@
-# 👋 ¡Hola! Soy Kopi
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcyOTY2MDksIm5iZiI6MTc1NzI5NjMwOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA4VDAxNTE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzY2JhZDVjY2YwODAwZjEwMjc5OGI4OThjZTlkMzdlNGEwMDkxMmY3NmM2MDUzZGVlNjY3NmRiOTkxNWZkM2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Av8B9-lkD4bZrj6kHfi2pP45o1LQ-QPcrLjlX6x00VM" 
+       width="100%" height="400"  alt="Banner animado" />
+</p>
 
-Soy un **Desarrollador Fullstack Junior** en constante aprendizaje. Me gusta construir proyectos útiles con tecnologías modernas, resolver problemas con código y experimentar con herramientas que me permitan mejorar como desarrollador.
+---
+Me llamo Santiago, también conocido como "kopi", soy Desarrollador Full Stack Junior con muchas ganas de incoporarme a un equipo de trabajo donde pueda aportar y seguir creciendo. Me gusta también la Ciberseguridad, árean en la cuál estoy dando mis primeros pasos. Siempre busco aplicar lo que voy aprendiendo, explorar nuevas tecnologías y demostrar de mejorar manera mis habilidades.
+
+
+<h1 align="center"> Proyectos Trabajados </h1>
+
+###  [Generador de Contraseñas](https://generador-password-amber.vercel.app/)
+Aplicación web para generar contraseñas seguras personalizables (longitud y tipos de caracteres).
+
+<p align="center">
+  <img src="./image.png" width="500"/>
+</p>
+
 
 ---
 
-## 🚀 Sobre mí
+###  [Chat IA](https://chat-ia-nine.vercel.app/)
+Chat IA que permite interactuar con un asistente virtual que puede responder preguntas, brindar información y ayudar con tareas cotidianas.
 
-- 💻 Trabajo en proyectos personales con **JavaScript**, **TypeScript**, **React**, **Next.js** y **TailwindCSS**.
-- 🌱 Tengo conocimientos básicos en **Python** y **Java**, y planeo seguir profundizando en estos lenguajes.
-- 🧠 Me interesa aprender buenas prácticas, escribir código limpio y mejorar mi lógica como programador.
-- 🤝 Abierto a colaborar, trabajar en equipo y seguir creciendo tanto a nivel técnico como profesional.
+<p align="center">
+  <img src="./image.png" width="500"/>
+</p>
 
----
 
-## 🌐 Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kopii)
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" alt="gif animado" /> Habilidades Técnicas <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" alt="gif animado" /></h1>
 
----
 
-## 💻 Tecnologías
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=tailwindcss)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)
 
-### 🧠 Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend y Herramientas
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="45" alt="gif animado" /> Bases de Datos y Herramientas <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="45" alt="gif animado" /> </h1>
 
----
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,git,github,postman,vercel)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devkopi&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devkopi&theme=dark&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkopi&layout=compact&theme=dark&hide_border=false" />
-</div>
 
----
-
-## ✍️ Frase del día para devs
-
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
-## 📌 Repositorios destacados
-
-[![Repositorios](https://github-contributor-stats.vercel.app/api?username=devkopi&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)](https://github.com/devkopi)
-
----
-
-> _Gracias por pasarte por mi perfil. Estoy siempre abierto a aprender algo nuevo, colaborar con otros y seguir creciendo en este camino como desarrollador web._ 🚀
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="35" alt="gif animado" /> Contacto <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="35" alt="gif animado" /></h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kopii/" target="_blank">LinkedIn</a> • 
+  <a href="https://x.com/Sxntiagorg" target="_blank">X</a> • 
+  <a href="https://github.com/devkopi" target="_blank">GitHub</a>
+</p>
