@@ -23,7 +23,7 @@ Aplicación web para generar contraseñas seguras personalizables (longitud y ti
 Chat IA que permite interactuar con un asistente virtual que puede responder preguntas, brindar información y ayudar con tareas cotidianas.
 
 <p align="center">
-  <img src="./image.png" width="500"/>
+  <img src="./image-2.png" width="500"/>
 </p>
 
 
