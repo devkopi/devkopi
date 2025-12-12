@@ -4,8 +4,8 @@ kopi@dev:~$ Full Stack Developer | Ciberseguridad Rookie | Coffee Powered█
 
 ---
 
-Programo, rompo cosas, las arreglo y vuelvo a construir.  
-Aprendo rápido, fallo seguido y sigo intentando.  
+Programo, pruebo, fallo.
+Aprendo, arreglo y vuelvo a construir.
 
 ## Tecnologías
 
